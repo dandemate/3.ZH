@@ -1,0 +1,9 @@
+Milka;60;kakao;kutya;macska
+Milka;60;kakao;kutya;macska
+Milka;60;kakao;kutya;macska
+Ailka;60;kakao;kutya;macska
+Bilka;60;kakao;kutya;
+Boci;48;kakao;boci;cica
+Boci;43;cica
+Etbocicsoki;88;etboci;majom
+Etbocicsoki;-1;etboci;majom
